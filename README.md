@@ -3,6 +3,13 @@
 ### Project Title: sales and customer dataset management
 ---
 
+- [INTRODUCTION]
+- [DATA AND REQUIREMENT]
+- [TOOLS AND METHOD USED]
+- [SALES DATA]
+- [CUSTOMER DATA]
+
+
 ### Introduction
 
 #### This portfolio showcases my data analysis skills using Excel, SQL, and Power BI.
@@ -83,6 +90,7 @@
 
 ![Screenshot 2024-11-05 130708](https://github.com/user-attachments/assets/bb5f3d6c-ef58-4e85-bc08-a01b0ac03501) 
 
+---
 
 #### FORMULAS FOR AVERAGE SALES PER PRODUCT AND TOTAL RENUNUE BY REGION
 
@@ -90,6 +98,7 @@ AVERAGEIF(ProductColumn, ProductName, SalesColumn)
 
 SUMIFS(SalesColumn, RegionColumn, RegionName) 
 
+---
 #### SQL QUERIES
 
 
@@ -103,6 +112,7 @@ SUMIFS(SalesColumn, RegionColumn, RegionName)
 ![Screenshot 2024-11-05 152912](https://github.com/user-attachments/assets/82918184-32dd-4a38-a917-311e015ae3c1)
 
 
+---
 #### Power BI
 
     - Sales overview
@@ -116,6 +126,8 @@ SUMIFS(SalesColumn, RegionColumn, RegionName)
 
 
 ![Screenshot 2024-11-05 134840](https://github.com/user-attachments/assets/55117970-274e-49fb-b650-cb47953af93d) 
+
+---
 
 
 # CUSTOMER DATA
