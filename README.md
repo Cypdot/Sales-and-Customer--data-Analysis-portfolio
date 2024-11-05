@@ -68,18 +68,40 @@
 - Customer data
 - Regional data
 
-  Excel Analysis
+ #### Excel Analysis
 
 - Sales_Analysis
     - Pivot tables for total sales by product, region, and month
     - Formulas for average sales per product and total revenue by region
 
-
-   
-   
-  
+#### PIVOT TABLE SHOWING THE TOTAL SALES BY REGION, PRODUCT, AND BY MONTH
 
 
 
 
-![Screenshot 2024-11-05 130708](https://github.com/user-attachments/assets/bb5f3d6c-ef58-4e85-bc08-a01b0ac03501)
+![Screenshot 2024-11-05 130708](https://github.com/user-attachments/assets/bb5f3d6c-ef58-4e85-bc08-a01b0ac03501) 
+
+
+#### FORMULAS FOR AVERAGE SALES PER PRODUCT AND TOTAL RENUNUE BY REGION
+
+AVERAGEIF(ProductColumn, ProductName, SalesColumn)
+
+SUMIFS(SalesColumn, RegionColumn, RegionName) 
+
+#### Power BI
+
+    - Sales overview
+    - Top-performing products
+    - Regional breakdowns
+    - Interactive filters and visualizations
+
+
+#### FLITERS AND VISUALIZATION
+
+
+
+![Screenshot 2024-11-05 134840](https://github.com/user-attachments/assets/55117970-274e-49fb-b650-cb47953af93d)
+
+
+
+
