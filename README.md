@@ -8,7 +8,8 @@
 - [TOOLS AND METHOD USED]
 - [SALES DATA]
 - [CUSTOMER DATA]
--  [METHODOLOGY]
+- [METHODOLOGY]
+- [TOOLS USED]
 
 
 ### Introduction
