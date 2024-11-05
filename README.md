@@ -68,6 +68,13 @@
 - Customer data
 - Regional data
 
+  Excel Analysis
+
+- Sales_Analysis
+    - Pivot tables for total sales by product, region, and month
+    - Formulas for average sales per product and total revenue by region
+
+
    
    
   
