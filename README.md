@@ -53,9 +53,21 @@
 
    ---
 
-   ### PIVOT TABLE
+### Project Overview
 
-   #### PIVOT TABLE OF SALES DATASET
+#### The goal is to produce an interactive Power BI dashboard highlighting key insights such as:
+
+- Top-selling products
+- Regional performance
+- Monthly sales trends
+
+#### Dataset
+
+- Sales data (1000+ transactions)
+- Product information
+- Customer data
+- Regional data
+
    
    
   
