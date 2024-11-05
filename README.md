@@ -8,6 +8,7 @@
 - [TOOLS AND METHOD USED]
 - [SALES DATA]
 - [CUSTOMER DATA]
+-  [METHODOLOGY]
 
 
 ### Introduction
@@ -179,6 +180,21 @@ The goal is to understand customer behavior, track subscription types, and ident
 ### Power BI
 
 
-![Screenshot 2024-11-05 150941](https://github.com/user-attachments/assets/db976e3e-f465-4cc2-8fde-e221d85498ee)
+![Screenshot 2024-11-05 150941](https://github.com/user-attachments/assets/db976e3e-f465-4cc2-8fde-e221d85498ee) 
+
+
+# METHODOLOGY
+
+#### The subscription service analysis project will utilize a joint methodology combining Excel for data preparation and preliminary analysis of customer demographics and sales trends, SQL for in-depth querying of customer subscription patterns, cancellations, and renewals, and sales data analysis, and Power BI for interactive visualization and dashboard creation to illustrate key customer segments, sales trends, and subscription insights, culminating in a comprehensive report detailing key findings and recommendations.
+
+
+# TOOLS USED
+
+### MICROSOFT EXCEL
+
+### SQL
+
+### POWER BI
+
 
 
