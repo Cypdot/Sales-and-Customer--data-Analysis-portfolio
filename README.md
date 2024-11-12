@@ -197,5 +197,10 @@ The goal is to understand customer behavior, track subscription types, and ident
 
 ### POWER BI
 
+# CONCLUSION
+
+#### This comprehensive analysis of customer data for a subscription service has yielded valuable insights into customer behavior, subscription patterns, and trends in cancellations and renewals. Leveraging Excel, SQL, and Power BI
+
+
 
 
